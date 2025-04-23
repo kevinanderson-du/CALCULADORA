@@ -39,3 +39,4 @@ function somar(a, b) {
     document.getElementById("resultado").innerText = "Erro: ${error.message}";  }
    }
    module.exports = { somar, subtrair,dividir,multiplicar };
+   //comentario
